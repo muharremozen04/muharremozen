@@ -28,11 +28,3 @@
 <p dir="auto"> </p>
  
  
-<p dir="auto">
-<a href="https://www.mysql.com/" rel="nofollow"><img alt="mysql" src="https://github.com/hakanozer/hakanozer/raw/main/databases_and_tools/mysql.svg" width="40" style="max-width: 100%;"></a>   
-<a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow"><img alt="mssql" src="https://github.com/hakanozer/hakanozer/raw/main/databases_and_tools/sqlserver.svg" width="40" style="max-width: 100%;"></a>  
- <a href="https://www.oracle.com/" rel="nofollow"><img alt="oracle" src="https://github.com/hakanozer/hakanozer/raw/main/databases_and_tools/oracle.svg" width="40" style="max-width: 100%;"></a>  
- <a href="https://mariadb.org/" rel="nofollow"><img alt="mariadb" src="https://github.com/hakanozer/hakanozer/raw/main/databases_and_tools/mariadb.svg" width="40" style="max-width: 100%;"></a>  
- <a href="https://postman.com" rel="nofollow"><img alt="postman" src="https://github.com/hakanozer/hakanozer/raw/main/databases_and_tools/postman.svg" width="40" style="max-width: 100%;"></a>  </p>
-<p dir="auto"> </p>
-
