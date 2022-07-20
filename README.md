@@ -11,8 +11,7 @@
 <p dir="auto">
 <a href="https://www.java.com" rel="nofollow"><img alt="java" src="https://github.com/hakanozer/hakanozer/raw/main/languages_icon/java.svg" width="40" style="max-width: 100%;"></a>  
  <a href="https://spring.io/" rel="nofollow"><img alt="spring" src="https://github.com/hakanozer/hakanozer/raw/main/languages_icon/spring.svg" width="40" style="max-width: 100%;"></a>  
- <a href="https://reactjs.org/" rel="nofollow"><img alt="react" src="https://github.com/hakanozer/hakanozer/raw/main/languages_icon/reactjs.svg" width="40" style="max-width: 100%;"></a>   
- <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" rel="nofollow"><img alt="csharp" src="https://github.com/hakanozer/hakanozer/raw/main/languages_icon/csharp.svg" width="40" style="max-width: 100%;"></a>   
+ <a href="https://reactjs.org/" rel="nofollow"><img alt="react" src="https://github.com/hakanozer/hakanozer/raw/main/languages_icon/reactjs.svg" width="40" style="max-width: 100%;"></a>    
 <a href="https://www.w3schools.com/css/" rel="nofollow"><img alt="css3" src="https://github.com/hakanozer/hakanozer/raw/main/languages_icon/css3.svg" width="40" style="max-width: 100%;"></a>   
  <a href="https://www.w3.org/html/" rel="nofollow"><img alt="html5" src="https://github.com/hakanozer/hakanozer/raw/main/languages_icon/html5.svg" width="40" style="max-width: 100%;"></a>   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img alt="javascript" src="https://github.com/hakanozer/hakanozer/raw/main/languages_icon/javascript.svg" width="40" style="max-width: 100%;"></a>  
