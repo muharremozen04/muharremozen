@@ -7,8 +7,6 @@
 <p dir="auto">
 <a href="https://www.linkedin.com/in/muharrem-%C3%B6zen-947943183/" rel="nofollow"><img alt="hakanozer02" src="https://github.com/hakanozer/hakanozer/raw/main/social_icon/linked-in-alt.svg" width="40" style="max-width: 100%;"></a> 
  
- width="40" /></a>&nbsp; &nbsp;<a href="https://instagram.com/hakanozer02" target="blank"><img alt="hakanozer02" src="https://github.com/hakanozer/hakanozer/blob/main/social_icon/instagram.svg" width="40" /></a></p>
- 
 </p>
 
 <h5 dir="auto">
